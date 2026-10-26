@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Test suite against MySQL instead of SQLite.
+
+    WHY THIS EXISTS
+    ===============
+    `phpunit.xml` pins the suite to SQLite (`DB_CONNECTION=sqlite`,
+    `DB_DATABASE=:memory:`) so tests are fast and need no server. That means a green
+    suite proves nothing about MySQL, which is what production actually runs.
+
+    This configuration is identical EXCEPT that it does not pin the database, so the
+    connection comes from the environment / `.env`. Point it at a throwaway MySQL 8
+    database and run the whole suite against the real target.
+
+    USAGE
+        export DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 \
+               DB_DATABASE=thesharkweb_test DB_USERNAME=root DB_PASSWORD=
+        ./vendor/bin/phpunit -c phpunit.mysql.xml
+
+    WARNING: `RefreshDatabase` runs `migrate:fresh`, which DROPS EVERY TABLE in the
+    target database. Never point this at production or at a database you care about.
+
+    Note that PHPUnit's <env> entries override exported variables, which is exactly why
+    the DB_* entries are absent here rather than set to a MySQL value.
+-->
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+>
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory>tests/Feature</directory>
+        </testsuite>
+    </testsuites>
+    <source>
+        <include>
+            <directory>app</directory>
+        </include>
+    </source>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="APP_MAINTENANCE_DRIVER" value="file"/>
+        <env name="BCRYPT_ROUNDS" value="4"/>
+        <env name="BROADCAST_CONNECTION" value="null"/>
+        <env name="CACHE_STORE" value="array"/>
+        <env name="MAIL_MAILER" value="array"/>
+        <env name="QUEUE_CONNECTION" value="sync"/>
+        <env name="SESSION_DRIVER" value="array"/>
+        <env name="PULSE_ENABLED" value="false"/>
+        <env name="TELESCOPE_ENABLED" value="false"/>
+        <env name="NIGHTWATCH_ENABLED" value="false"/>
+    </php>
+</phpunit>

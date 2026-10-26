@@ -1,0 +1,1436 @@
+{
+  "stats": [
+    {
+      "label": "years",
+      "value": "12",
+      "suffix": "",
+      "caption": "years in operation",
+      "tone": "ink"
+    },
+    {
+      "label": "clients",
+      "value": "50",
+      "suffix": "+",
+      "caption": "clients shipped",
+      "tone": "accent"
+    },
+    {
+      "label": "users",
+      "value": "250",
+      "suffix": "K",
+      "caption": "daily active users",
+      "tone": "green"
+    },
+    {
+      "label": "countries",
+      "value": "10",
+      "suffix": "+",
+      "caption": "countries served",
+      "tone": "orange"
+    },
+    {
+      "label": "verticals",
+      "value": "20",
+      "suffix": "+",
+      "caption": "industry verticals",
+      "tone": "ink"
+    }
+  ],
+  "featured": [
+    {
+      "name": "Crawler",
+      "brand": "THESHARKWEB.COM",
+      "domain": "RECRUITMENT",
+      "year_label": "2025 (active)",
+      "stack": "PYTHON · NEST · VUE · MYSQL",
+      "result": "Live fully automated crawler",
+      "badge": false,
+      "back_brand": "# 002",
+      "back_title": "Live fully automated crawler",
+      "back_desc": "A live, fully-automated sourcing pipeline.",
+      "tone": "green",
+      "front_bg": "green-soft",
+      "thumbs": [
+        {
+          "src": "/_astro/crawler_1.CThLoWq3_JhUyX.webp"
+        },
+        {
+          "src": "/_astro/crawler_2.CeHyD6jx_Z1RgSO2.webp"
+        },
+        {
+          "src": "/_astro/crawler_3.Cx56Frte_Z3EIRH.webp"
+        }
+      ],
+      "chips": [
+        "PYTHON",
+        "NEST",
+        "VUE",
+        "MYSQL"
+      ],
+      "facts": [],
+      "specs": [
+        {
+          "label": "domain",
+          "value": "Recruitment"
+        },
+        {
+          "label": "client",
+          "value": "under NDA"
+        },
+        {
+          "label": "categories",
+          "value": "AI & Data"
+        }
+      ],
+      "cta_text": "READ THE CASE STUDY →",
+      "cta_href": "/work/",
+      "sort": 0
+    },
+    {
+      "name": "Retail Network",
+      "brand": "THESHARKWEB.COM",
+      "domain": "RETAIL",
+      "year_label": "2023 (active)",
+      "stack": "ASTRO · STRAPI · MYSQL · VUE · REACT · TAILWIND · TYPESCRIPT · SHOPIFY PLUS · AZURE · CLOUDFLARE",
+      "result": "50+ sites · one stack",
+      "badge": true,
+      "back_brand": "# 003",
+      "back_title": "50+ sites · one stack",
+      "back_desc": "A techno-zoo replaced by one stack the client controls.",
+      "tone": "ink",
+      "front_bg": "yellow-soft",
+      "thumbs": [
+        {
+          "src": "/_astro/retail-network-1.Cfu3F-rr_ZFIJrP.webp"
+        },
+        {
+          "src": "/_astro/retail-network-2.sQbU00BK_xe2Tx.webp"
+        },
+        {
+          "src": "/_astro/retail-network-3.QcXN7yJ0_Z1bYTEX.webp"
+        }
+      ],
+      "chips": [
+        "ASTRO",
+        "STRAPI",
+        "MYSQL",
+        "VUE",
+        "REACT",
+        "TAILWIND",
+        "TYPESCRIPT",
+        "SHOPIFY PLUS",
+        "AZURE",
+        "CLOUDFLARE"
+      ],
+      "facts": [],
+      "specs": [
+        {
+          "label": "domain",
+          "value": "Retail"
+        },
+        {
+          "label": "client",
+          "value": "NEW LOOK VISION GROUP"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Commerce"
+        }
+      ],
+      "cta_text": "READ THE CASE STUDY →",
+      "cta_href": "/work/",
+      "sort": 1
+    },
+    {
+      "name": "EpinForce",
+      "brand": "THESHARKWEB.COM",
+      "domain": "FINTECH",
+      "year_label": "2023 (active)",
+      "stack": "ASTRO · VUE · NODE.JS · NEST · MYSQL · METABASE · FIGMA",
+      "result": "Live platform",
+      "badge": true,
+      "back_brand": "# 005",
+      "back_title": "Live platform",
+      "back_desc": "Digital distribution without the spreadsheet glue.",
+      "tone": "accent",
+      "front_bg": "blue-soft",
+      "thumbs": [
+        {
+          "src": "/_astro/epin_1.BaJG3-gX_Z1eEXrT.webp"
+        },
+        {
+          "src": "/_astro/epin_2.BgPV8oq-_Z1eELBH.webp"
+        },
+        {
+          "src": "/_astro/epin_3.7CiBCH0A_ZqXCuJ.webp"
+        }
+      ],
+      "chips": [
+        "ASTRO",
+        "VUE",
+        "NODE.JS",
+        "NEST",
+        "MYSQL",
+        "METABASE",
+        "FIGMA"
+      ],
+      "facts": [],
+      "specs": [
+        {
+          "label": "domain",
+          "value": "Fintech"
+        },
+        {
+          "label": "client",
+          "value": "EpinForce"
+        },
+        {
+          "label": "categories",
+          "value": "SaaS"
+        }
+      ],
+      "cta_text": "READ THE CASE STUDY →",
+      "cta_href": "/work/",
+      "sort": 2
+    },
+    {
+      "name": "Blaze Reviews",
+      "brand": "THESHARKWEB.COM",
+      "domain": "HOSPITALITY",
+      "year_label": "2023 (active)",
+      "stack": "ASTRO · VUE · NODE.JS · NEST · MYSQL · CHATGPT · METABASE",
+      "result": "Live hotel platform · <1s insight",
+      "badge": true,
+      "back_brand": "# 006",
+      "back_title": "Live hotel platform · <1s insight",
+      "back_desc": "Hotels move from reactive to proactive.",
+      "tone": "green",
+      "front_bg": "green-soft",
+      "thumbs": [
+        {
+          "src": "/_astro/blaze_0_1._gBXDL7S_Z1dTjAG.webp"
+        },
+        {
+          "src": "/_astro/blaze_0_2.BEWASqVd_ZJyzeo.webp"
+        },
+        {
+          "src": "/_astro/blaze_0_3.BD9gLgZ5_Z2juEDu.webp"
+        }
+      ],
+      "chips": [
+        "ASTRO",
+        "VUE",
+        "NODE.JS",
+        "NEST",
+        "MYSQL",
+        "CHATGPT",
+        "METABASE"
+      ],
+      "facts": [
+        {
+          "figure": "50+",
+          "tone": "accent",
+          "label": "HOTELS",
+          "sub": "being updated daily"
+        },
+        {
+          "figure": "80K>",
+          "tone": "green",
+          "label": "REVIEWS",
+          "sub": "collected from 4 sources"
+        },
+        {
+          "figure": "210K>",
+          "tone": "green",
+          "label": "ASPECTS",
+          "sub": "extracted and categorized"
+        }
+      ],
+      "specs": [
+        {
+          "label": "domain",
+          "value": "Hospitality"
+        },
+        {
+          "label": "client",
+          "value": "Blaze Reviews"
+        },
+        {
+          "label": "categories",
+          "value": "AI & Data · SaaS · Design & UX"
+        }
+      ],
+      "cta_text": "READ THE CASE STUDY →",
+      "cta_href": "/work/",
+      "sort": 3
+    },
+    {
+      "name": "99designs Contest Winners",
+      "brand": "THESHARKWEB.COM",
+      "domain": "DESIGN AWARDS",
+      "year_label": "2008-2020",
+      "stack": "PHOTOSHOP · DESIGN · AWARD",
+      "result": "35 web-design contests won",
+      "badge": false,
+      "back_brand": "# 032",
+      "back_title": "35 web-design contests won",
+      "back_desc": "35 wins — still the foundation of the studio's visual instinct.",
+      "tone": "magenta",
+      "front_bg": "magenta-soft",
+      "thumbs": [
+        {
+          "src": "/_astro/contests_8.DRk_MORo_10tmbl.webp"
+        },
+        {
+          "src": "/_astro/contests_7.DMbQnjwk_Z29LF46.webp"
+        },
+        {
+          "src": "/_astro/contests_10.DngkP-kO_Z1qTtXi.webp"
+        }
+      ],
+      "chips": [
+        "PHOTOSHOP",
+        "DESIGN",
+        "AWARD"
+      ],
+      "facts": [
+        {
+          "figure": "35",
+          "tone": "orange",
+          "label": "CONTEST WINS",
+          "sub": "judged by paying clients"
+        },
+        {
+          "figure": "2008",
+          "tone": "accent",
+          "label": "MEMBER SINCE",
+          "sub": "99designs profile"
+        }
+      ],
+      "specs": [
+        {
+          "label": "domain",
+          "value": "Design awards"
+        },
+        {
+          "label": "client",
+          "value": "under NDA"
+        },
+        {
+          "label": "categories",
+          "value": "Design & UX"
+        }
+      ],
+      "cta_text": "READ THE CASE STUDY →",
+      "cta_href": "/work/",
+      "sort": 4
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Custom Software & Web Dev for Retail Company",
+      "quote": "“The Shark Web stood out for its exceptional work ethic, remarkable responsiveness, and deep expertise.”",
+      "body": "The client was pleased with The Shark Web's work, which was first delivered in testing and then in production environments. The team always delivered on time and communicated via virtual meetings, emails, and messaging apps. The client was impressed by the team's work ethic, expertise, and flexibility.",
+      "avatar": "/img/clients/elena-pomazanova.png",
+      "name": "Elena Pomazanova",
+      "role": "VP IT, NEW LOOK VISION GROUP",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/489093",
+      "card_name": "Retail Network",
+      "card_back_brand": "# 003",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "RETAIL",
+      "card_year_label": "2023 (active)",
+      "card_stack": "ASTRO · STRAPI · MYSQL · VUE · REACT · TAILWIND · TYPESCRIPT · SHOPIFY PLUS · AZURE · CLOUDFLARE",
+      "card_result": "50+ sites · one stack",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "50+ sites · one stack",
+      "card_back_desc": "A techno-zoo replaced by one stack the client controls.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/retail-network-1.Cfu3F-rr_ZFIJrP.webp"
+        },
+        {
+          "src": "/_astro/retail-network-2.sQbU00BK_xe2Tx.webp"
+        },
+        {
+          "src": "/_astro/retail-network-3.QcXN7yJ0_Z1bYTEX.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "STRAPI",
+        "MYSQL",
+        "VUE",
+        "REACT",
+        "TAILWIND",
+        "TYPESCRIPT",
+        "SHOPIFY PLUS",
+        "AZURE",
+        "CLOUDFLARE"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Retail"
+        },
+        {
+          "label": "client",
+          "value": "NEW LOOK VISION GROUP"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Commerce"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 0
+    },
+    {
+      "title": "Platform Development for IT Company",
+      "quote": "“They've invested time in understanding the underlying business model, user journeys, and long-term objectives.”",
+      "body": "The Shark Web has successfully delivered a production-ready platform with scalable infrastructure, automated workflows, analytics capabilities, and a mobile-responsive design. They've demonstrated strong project management, consistent communication, flexibility, and a proactive, solution-oriented mindset.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Anonymous",
+      "role": "COO, IT COMPANY",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/462007",
+      "card_name": "StudyBooster",
+      "card_back_brand": "# 010",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "EDTECH",
+      "card_year_label": "2024-2025",
+      "card_stack": "ASTRO · VUE · NODE.JS · NEST · MYSQL · CHATGPT · TAILWIND",
+      "card_result": "Live AI tutor",
+      "card_badge": false,
+      "card_tone": "green",
+      "card_front_bg": "green-soft",
+      "card_back_title": "Live AI tutor",
+      "card_back_desc": "Personal study companion that learns with the student.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/studybooster_1.wAMymBPA_2niezi.webp"
+        },
+        {
+          "src": "/_astro/studybooster_2.D-CDAdKh_Z1jYrsS.webp"
+        },
+        {
+          "src": "/_astro/studybooster_3.Noi3S51p_aTiJU.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "VUE",
+        "NODE.JS",
+        "NEST",
+        "MYSQL",
+        "CHATGPT",
+        "TAILWIND"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Edtech"
+        },
+        {
+          "label": "client",
+          "value": "under NDA"
+        },
+        {
+          "label": "categories",
+          "value": "AI & Data · SaaS · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 1
+    },
+    {
+      "title": "Web Platform Dev for Digital Gift Card Distribution Platform",
+      "quote": "“The Shark Web is trustworthy.”",
+      "body": "The platform received more than 10 positive reviews from customers, and the client's platform usage has increased by 20%. The Shark Web is trustworthy, and the client primarily communicates with them via email and messaging apps.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Anonymous",
+      "role": "FOUNDER AND CEO, EPICFORCE",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/455922",
+      "card_name": "EpinForce",
+      "card_back_brand": "# 005",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "FINTECH",
+      "card_year_label": "2023 (active)",
+      "card_stack": "ASTRO · VUE · NODE.JS · NEST · MYSQL · METABASE · FIGMA",
+      "card_result": "Live platform",
+      "card_badge": false,
+      "card_tone": "accent",
+      "card_front_bg": "blue-soft",
+      "card_back_title": "Live platform",
+      "card_back_desc": "Digital distribution without the spreadsheet glue.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/epin_1.BaJG3-gX_Z1eEXrT.webp"
+        },
+        {
+          "src": "/_astro/epin_2.BgPV8oq-_Z1eELBH.webp"
+        },
+        {
+          "src": "/_astro/epin_3.7CiBCH0A_ZqXCuJ.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "VUE",
+        "NODE.JS",
+        "NEST",
+        "MYSQL",
+        "METABASE",
+        "FIGMA"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Fintech"
+        },
+        {
+          "label": "client",
+          "value": "EpinForce"
+        },
+        {
+          "label": "categories",
+          "value": "SaaS"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 2
+    },
+    {
+      "title": "Web Development for Geospatial Technology Company",
+      "quote": "“We were satisfied during the whole process.”",
+      "body": "The Shark Web delivered all project milestones on time, and the client received positive feedback from their customers. The team impressed the client with their excellent project management and communication. Moreover, they quickly resolved any issues that arose.",
+      "avatar": "/img/clients/illia-hryhorenko.jpg",
+      "name": "Illia Hryhorenko",
+      "role": "APPLICATION ENGINEER, SV GEO LLC",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/456016",
+      "card_name": "SV Geo",
+      "card_back_brand": "# 009",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "HARDWARE",
+      "card_year_label": "2025",
+      "card_stack": "ASTRO · STRAPI · MYSQL · REACT · TAILWIND · TYPESCRIPT · DESIGN",
+      "card_result": "Live site · Strapi CMS",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "Live site · Strapi CMS",
+      "card_back_desc": "A site that reads like a product sheet.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/svgeo_1.B9rvLo38_2n7ol.webp"
+        },
+        {
+          "src": "/_astro/svgeo_2.BGOjQx7S_ZpcRrd.webp"
+        },
+        {
+          "src": "/_astro/svgeo_3.SOpPrfff_Z2lyjzv.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "STRAPI",
+        "MYSQL",
+        "REACT",
+        "TAILWIND",
+        "TYPESCRIPT",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Hardware"
+        },
+        {
+          "label": "client",
+          "value": "SV Geo"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 3
+    },
+    {
+      "title": "Shopify e-commerce platform for a 3D printing company",
+      "quote": "“They understood our needs well and delivered a solution that worked smoothly from day one.”",
+      "body": "The Shark Web designed and developed a Shopify e-commerce platform for a 3D printing company. The team integrated payment gateways and ERP systems and implemented SEO, analytics tracking, and automation workflows.",
+      "avatar": "/img/clients/mykhailo-bakhtin.jpg",
+      "name": "Mykhailo Bakhtin",
+      "role": "CEO, PLEXIWIRE",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/455386",
+      "card_name": "Plexiwire",
+      "card_back_brand": "# 011",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "ELECTRONICS",
+      "card_year_label": "2023-2024",
+      "card_stack": "SHOPIFY · BASELINKER · ALLEGRO · INPOST · CSS · JAVASCRIPT · TYPESCRIPT · DESIGN",
+      "card_result": "Live Shopify + Allegro · unified via BaseLinker",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Live Shopify + Allegro · unified via BaseLinker",
+      "card_back_desc": "A store that sells everywhere and fulfils through one pipeline.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/plexiwire_1.DZwg2466_iYfpW.webp"
+        },
+        {
+          "src": "/_astro/plexiwire_2.CjgeRlGa_10lESE.webp"
+        },
+        {
+          "src": "/_astro/plexiwire_3.0Vhw80RG_Z70KPU.webp"
+        }
+      ],
+      "card_chips": [
+        "SHOPIFY",
+        "BASELINKER",
+        "ALLEGRO",
+        "INPOST",
+        "CSS",
+        "JAVASCRIPT",
+        "TYPESCRIPT",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Electronics"
+        },
+        {
+          "label": "client",
+          "value": "Plexiwire"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 4
+    },
+    {
+      "title": "Landing Page Development for Tutoring Service Provider",
+      "quote": "“Their frontend work was exceptional, with very precise coding and pixel-perfect implementations.”",
+      "body": "Thanks to The Shark Web’s efforts, the client had a functioning landing page with an integrated onboarding system. The team was flexible and responded promptly to amendments and change requirements. They communicated via virtual meetings, emails, and messages, and their speed of work stood out.",
+      "avatar": "/img/clients/maksim-latanovschii.jpg",
+      "name": "Maksim Latanovschii",
+      "role": "OWNER & LEAD PRODUCT DESIGNER, MAXIM REDC LIMITED",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/276905",
+      "card_name": "Red UX Bootcamp",
+      "card_back_brand": "# 012",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "EDTECH",
+      "card_year_label": "2023",
+      "card_stack": "ASTRO · REACT · KWIGA · TYPESCRIPT · TAILWIND",
+      "card_result": "Live platform",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "Live platform",
+      "card_back_desc": "Enrolment and cohorts ship the same day.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/reduxbootcamp_1.DsCayfpN_Z1kuwoH.webp"
+        },
+        {
+          "src": "/_astro/reduxbootcamp_2.BDhHg0aY_Z1bGYkm.webp"
+        },
+        {
+          "src": "/_astro/reduxbootcamp_3.CvG_WeCK_Zhfg9O.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "REACT",
+        "KWIGA",
+        "TYPESCRIPT",
+        "TAILWIND"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Edtech"
+        },
+        {
+          "label": "client",
+          "value": "under NDA"
+        },
+        {
+          "label": "categories",
+          "value": "Website"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 5
+    },
+    {
+      "title": "Website & Web App Development for Data Dasbhoard Creation",
+      "quote": "“The Shark Web is a team of professionals who work very organized with a clear working process.”",
+      "body": "The Shark Web's work has helped the client receive their first investment. The team is very organized and has a clear working process. The Shark Web is creative and offers solutions that bring value to the client's customers. The Shark Web goes above and beyond to meet deadlines, becoming a reliable partner for the client.",
+      "avatar": "/img/clients/lital-shpaner.jpg",
+      "name": "Lital Shpaner",
+      "role": "FOUNDER & CEO, BLAZE",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/275259",
+      "card_name": "Blaze Reviews",
+      "card_back_brand": "# 006",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "HOSPITALITY",
+      "card_year_label": "2023 (active)",
+      "card_stack": "ASTRO · VUE · NODE.JS · NEST · MYSQL · CHATGPT · METABASE",
+      "card_result": "Live hotel platform · <1s insight",
+      "card_badge": false,
+      "card_tone": "green",
+      "card_front_bg": "green-soft",
+      "card_back_title": "Live hotel platform · <1s insight",
+      "card_back_desc": "Hotels move from reactive to proactive.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/blaze_0_1._gBXDL7S_Z1dTjAG.webp"
+        },
+        {
+          "src": "/_astro/blaze_0_2.BEWASqVd_ZJyzeo.webp"
+        },
+        {
+          "src": "/_astro/blaze_0_3.BD9gLgZ5_Z2juEDu.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "VUE",
+        "NODE.JS",
+        "NEST",
+        "MYSQL",
+        "CHATGPT",
+        "METABASE"
+      ],
+      "card_facts": [
+        {
+          "figure": "50+",
+          "tone": "accent",
+          "label": "HOTELS",
+          "sub": "being updated daily"
+        },
+        {
+          "figure": "80K>",
+          "tone": "green",
+          "label": "REVIEWS",
+          "sub": "collected from 4 sources"
+        },
+        {
+          "figure": "210K>",
+          "tone": "green",
+          "label": "ASPECTS",
+          "sub": "extracted and categorized"
+        }
+      ],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Hospitality"
+        },
+        {
+          "label": "client",
+          "value": "Blaze Reviews"
+        },
+        {
+          "label": "categories",
+          "value": "AI & Data · SaaS · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 6
+    },
+    {
+      "title": "Custom Shopify Online Shop Dev for Craft Beer Brand",
+      "quote": "“I was impressed with their response times, skill set, and know-how.”",
+      "body": "The Shark Web delivered all projects on time, and their high-quality work was commendable. The team also met the client’s budget requirements. Moreover, their resources communicated well with the client; they were truly responsive and knowledgeable. Overall, the engagement was highly successful.",
+      "avatar": "/img/clients/andreas-erfurt.png",
+      "name": "Andreas Erfurt",
+      "role": "CEO & CO-FOUNDER, BREWHEART GMBH",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/276335",
+      "card_name": "BrewHeart",
+      "card_back_brand": "# 022",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "BEVERAGE",
+      "card_year_label": "2018-2024",
+      "card_stack": "SHOPIFY · CSS · TYPESCRIPT",
+      "card_result": "Live store",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Live store",
+      "card_back_desc": "A Shopify store that feels like a specialist shop.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/brewheart_1.D_SazPEk_Z1EgUDO.webp"
+        },
+        {
+          "src": "/_astro/brewheart_2.CDnzx-iM_2r6rnR.webp"
+        },
+        {
+          "src": "/_astro/brewheart_3.CTOWALVk_ZL3qMw.webp"
+        }
+      ],
+      "card_chips": [
+        "SHOPIFY",
+        "CSS",
+        "TYPESCRIPT"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Beverage"
+        },
+        {
+          "label": "client",
+          "value": "BrewHeart"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 7
+    },
+    {
+      "title": "Website Migration & Redesign for Geodesy Equipment Company",
+      "quote": "“They were involved in the development process and responded immediately to all issues and our needs.”",
+      "body": "The Shark Web delivered a functional website with a unique design. The Shark Web's team was responsive, communicative via weekly virtual meetings, and punctual. The client also praised the team's easygoing and involved approach throughout the development process.",
+      "avatar": "/img/clients/roman-puhachov.jpg",
+      "name": "Roman Puhachov",
+      "role": "MARKETING MANAGER, E.P.S. LLC UKRAINE",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/275227",
+      "card_name": "EPS",
+      "card_back_brand": "# 013",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "HARDWARE",
+      "card_year_label": "2023",
+      "card_stack": "ASTRO · STRAPI · MYSQL · REACT · TAILWIND · DESIGN",
+      "card_result": "Live site · Strapi CMS",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "Live site · Strapi CMS",
+      "card_back_desc": "A working product catalogue, editable by the team.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/eps_1.DkB8egmF_23iSMl.webp"
+        },
+        {
+          "src": "/_astro/eps_2.V8yiV4Vp_Z11sjA.webp"
+        },
+        {
+          "src": "/_astro/eps_3.BYQSiCvY_Z1uIVQ6.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "STRAPI",
+        "MYSQL",
+        "REACT",
+        "TAILWIND",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Hardware"
+        },
+        {
+          "label": "client",
+          "value": "EPS"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 8
+    },
+    {
+      "title": "UI/UX Design & E-Commerce Dev for Fitness Company",
+      "quote": "“We're impressed with their speed of work and ability to take on multiple different project requirements”",
+      "body": "The Shark Web's work has successfully driven improvements in the platform's UI. Working collaboratively, the team communicates clearly and frequently and consistently delivers on time and within budget. They impress with their efficiency and ability to take on multiple project requirements.",
+      "avatar": "/img/clients/tommy-matthews.png",
+      "name": "Tommy Matthews",
+      "role": "PERFORMANCE DIRECTOR, BMF",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/186139",
+      "card_name": "Be Military Fit",
+      "card_back_brand": "# 016",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "FITNESS",
+      "card_year_label": "2022-2025",
+      "card_stack": "SHOPIFY · CSS · STRAPI · NODE.JS · HUBSPOT",
+      "card_result": "Storefront + content live",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Storefront + content live",
+      "card_back_desc": "Commerce and content speak with one voice.",
+      "card_thumbs": [
+        {
+          "nda": true,
+          "text": "[ NDA ]"
+        }
+      ],
+      "card_chips": [
+        "SHOPIFY",
+        "CSS",
+        "STRAPI",
+        "NODE.JS",
+        "HUBSPOT"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Fitness"
+        },
+        {
+          "label": "client",
+          "value": "Be Military Fit"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce · Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 9
+    },
+    {
+      "title": "Mobile App Development for Affiliate Marketing Platform",
+      "quote": "“They’ve found solutions when we’ve needed them.”",
+      "body": "The client is delighted with how The Shark Web has tackled the app’s most challenging feature and found an elegant solution. The team is easy to work with and communicates effectively through email and WhatsApp. Their responsiveness and ability to clearly explain the development process also stand out.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Mesh Chhibber",
+      "role": "CO-FOUNDER, TIMB",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/23188",
+      "card_name": "TIMB",
+      "card_back_brand": "# 023",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "BEAUTY",
+      "card_year_label": "2018-2021",
+      "card_stack": "NODE.JS · REACT NATIVE · SHOPIFY · SHOPIFY APP",
+      "card_result": "Mobile + web live, commission tracking works",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Mobile + web live, commission tracking works",
+      "card_back_desc": "Tracked recommendations, fair commissions — across channels.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/timb_1.BohrE19p_Rxh4j.webp"
+        },
+        {
+          "src": "/_astro/timb_2.D8yGrn8h_GDEEk.webp"
+        }
+      ],
+      "card_chips": [
+        "NODE.JS",
+        "REACT NATIVE",
+        "SHOPIFY",
+        "SHOPIFY APP"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Beauty"
+        },
+        {
+          "label": "client",
+          "value": "TIMB"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce · SaaS"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 10
+    },
+    {
+      "title": "Web Development for Miami Based Startup",
+      "quote": "“The execution was flawless despite unfortunate geopolitical events that caused minor delays.”",
+      "body": "The client described the vendor as professional and on point in meeting each deliverable with quality and depth. The vendor was poised and resolute, going above and beyond the script as they overcame obstacles along the way.",
+      "avatar": "/img/clients/fran-susino.png",
+      "name": "Fran Susino",
+      "role": "COO, STARTUP",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/182855",
+      "card_name": "Infoxir",
+      "card_back_brand": "# 015",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "MEDIA",
+      "card_year_label": "2022-2025",
+      "card_stack": "GHOST · VUE · NODE.JS · MYSQL · METABASE · DESIGN",
+      "card_result": "Daily newsletter shipped",
+      "card_badge": false,
+      "card_tone": "accent",
+      "card_front_bg": "blue-soft",
+      "card_back_title": "Daily newsletter shipped",
+      "card_back_desc": "A brief that ships every morning.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/infoxir_1.BC9WchLn_28zxU3.webp"
+        },
+        {
+          "src": "/_astro/infoxir_2.Dbp3G4BD_24kaXj.webp"
+        },
+        {
+          "src": "/_astro/infoxir_3.DegD6meQ_Z1f5xxD.webp"
+        }
+      ],
+      "card_chips": [
+        "GHOST",
+        "VUE",
+        "NODE.JS",
+        "MYSQL",
+        "METABASE",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Media"
+        },
+        {
+          "label": "client",
+          "value": "Infoxir"
+        },
+        {
+          "label": "categories",
+          "value": "SaaS · Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 11
+    },
+    {
+      "title": "Shopify-Based Program for Tech Infrastructure Consultancy",
+      "quote": "“The most impressive thing about working with The Shark Web is just how responsive they are and how fast they turn work around.”",
+      "body": "The Shark Web delivered a high-quality product that the client presented to a large government institution. The product was easy to navigate and responsive, despite the quick turnaround time. Moreover, the team had a structured workflow and was accommodating to all the client's needs and requests.",
+      "avatar": "/img/clients/ben-ford.png",
+      "name": "Ben Ford",
+      "role": "FOUNDER, COMMANDO DEVELOPMENT",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/18279",
+      "card_name": "Be Military Fit",
+      "card_back_brand": "# 016",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "FITNESS",
+      "card_year_label": "2022-2025",
+      "card_stack": "SHOPIFY · CSS · STRAPI · NODE.JS · HUBSPOT",
+      "card_result": "Storefront + content live",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Storefront + content live",
+      "card_back_desc": "Commerce and content speak with one voice.",
+      "card_thumbs": [
+        {
+          "nda": true,
+          "text": "[ NDA ]"
+        }
+      ],
+      "card_chips": [
+        "SHOPIFY",
+        "CSS",
+        "STRAPI",
+        "NODE.JS",
+        "HUBSPOT"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Fitness"
+        },
+        {
+          "label": "client",
+          "value": "Be Military Fit"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce · Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 12
+    },
+    {
+      "title": "Web App Dev & Data Analytics for HR Services Company",
+      "quote": "“They help us come up with the correct answer instead of just doing what they’re told.”",
+      "body": "The client is happy with The Shark Web’s work, insight, and understanding of the platform. The team works collaboratively in an Agile environment, using Kanban for task management and Jira, Skype, and email for effective communication. They’re customer-focused and committed to the project’s success.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Anonymous",
+      "role": "EXECUTIVE, HR SERVICES COMPANY",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/19539",
+      "card_name": "Globogate",
+      "card_back_brand": "# 007",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "HEALTHCARE",
+      "card_year_label": "2016 (active)",
+      "card_stack": "PHP · LARAVEL · MYSQL · VUE.JS · AWS · TABLEAU",
+      "card_result": "Live recruitment platform",
+      "card_badge": false,
+      "card_tone": "accent",
+      "card_front_bg": "blue-soft",
+      "card_back_title": "Live recruitment platform",
+      "card_back_desc": "An ongoing engagement running for years.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/globogate_1.Czd1guty_SA23F.webp"
+        },
+        {
+          "src": "/_astro/globogate_2.CFetPzrK_iLShF.webp"
+        },
+        {
+          "src": "/_astro/globogate_3.Bis92gak_ZTLuoV.webp"
+        }
+      ],
+      "card_chips": [
+        "PHP",
+        "LARAVEL",
+        "MYSQL",
+        "VUE.JS",
+        "AWS",
+        "TABLEAU"
+      ],
+      "card_facts": [
+        {
+          "figure": "10y+",
+          "tone": "green",
+          "label": "ONGOING ENGAGEMENT",
+          "sub": "running since 2016"
+        },
+        {
+          "figure": "200+",
+          "tone": "orange",
+          "label": "NURSING AND HEALTHCARE COMPANIES",
+          "sub": "trust us for the long term"
+        },
+        {
+          "figure": "5.000+",
+          "tone": "orange",
+          "label": "NURSES",
+          "sub": "completed our programs and are working in Germany"
+        }
+      ],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Healthcare"
+        },
+        {
+          "label": "client",
+          "value": "Globogate"
+        },
+        {
+          "label": "categories",
+          "value": "SaaS · AI & Data"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 13
+    },
+    {
+      "title": "Shopify Store Design & Dev for Technology Consulting Company",
+      "quote": "“They have a solid approach to problem-solving and are looking for a long-lasting robust solution each time.”",
+      "body": "The Shark Web successfully finished the project on time, and the client was highly pleased with the final results. They were collaborative, and their management style focused on looking for the best solutions for the project. Overall, their technical expertise played a vital role in the project's success.",
+      "avatar": "/img/clients/elena-pomazanova.png",
+      "name": "Elena Pomazanova",
+      "role": "PRESIDENT, CYPER",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/18383",
+      "card_name": "Shopify Stores",
+      "card_back_brand": "# 027",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "E-COMMERCE",
+      "card_year_label": "2017-2020",
+      "card_stack": "SHOPIFY · SHOPIFY PLUS · XENTRAL · AKENO · CSS · JAVASCRIPT",
+      "card_result": "Many shops live, some still running years later",
+      "card_badge": false,
+      "card_tone": "orange",
+      "card_front_bg": "orange-soft",
+      "card_back_title": "Many shops live, some still running years later",
+      "card_back_desc": "Shops that keep running after launch.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/shopify_1.CZjlWeca_Ux8u8.webp"
+        },
+        {
+          "src": "/_astro/shopify_2.B3F65Fn5_8MlmT.webp"
+        },
+        {
+          "src": "/_astro/shopify_3.Cr4sqxvN_Z1ltFCt.webp"
+        }
+      ],
+      "card_chips": [
+        "SHOPIFY",
+        "SHOPIFY PLUS",
+        "XENTRAL",
+        "AKENO",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "E-commerce"
+        },
+        {
+          "label": "client",
+          "value": "under NDA"
+        },
+        {
+          "label": "categories",
+          "value": "Commerce"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 14
+    },
+    {
+      "title": "Website Design Update for Law Firm",
+      "quote": "“It was a pleasure working with them, and their speed of work and flexibility were impressive.”",
+      "body": "The Shark Web delivered impressive designs, and the client praised the site's aesthetics. The team's workflow was highly effective, and their resources were pleasant and communicated well. They worked fast and proved truly flexible during the engagement. The client also cited no areas for improvement.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Anonymous",
+      "role": "SOLO PRACTITIONER, LAW FIRM",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/181824",
+      "card_name": "Immigra",
+      "card_back_brand": "# 014",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "LEGAL",
+      "card_year_label": "2023",
+      "card_stack": "ASTRO · TAILWIND · TYPESCRIPT · DESIGN",
+      "card_result": "Live site",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "Live site",
+      "card_back_desc": "Design aesthetic the client is pleased with.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/immigra_1.BjVdgYwX_1rKKA5.webp"
+        },
+        {
+          "src": "/_astro/immigra_2.BWtZskDA_ZTY8AS.webp"
+        },
+        {
+          "src": "/_astro/immigra_3.DPH5uC4y_1edkH7.webp"
+        }
+      ],
+      "card_chips": [
+        "ASTRO",
+        "TAILWIND",
+        "TYPESCRIPT",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Legal"
+        },
+        {
+          "label": "client",
+          "value": "Immigra"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 15
+    },
+    {
+      "title": "Design for Tax Advising Company",
+      "quote": "“The team's empathy and personality are impressive in the workflow.”",
+      "body": "The engagement has led to a significant increase in web traffic. The Shark Web has worked hard to produce a quality page with functional tools. They've been constructive and positive throughout the workflow.",
+      "avatar": "/img/clients/urs-rindlisbacher.png",
+      "name": "Urs Rindlisbacher",
+      "role": "CEO, AUDITRIUM AG",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/18981",
+      "card_name": "Auditrium & Spitex",
+      "card_back_brand": "# 019",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "FINANCE",
+      "card_year_label": "2021",
+      "card_stack": "STRAPI · MYSQL · CSS · TYPESCRIPT · DESIGN",
+      "card_result": "Live site · traffic up meaningfully post-launch",
+      "card_badge": false,
+      "card_tone": "ink",
+      "card_front_bg": "yellow-soft",
+      "card_back_title": "Live site · traffic up meaningfully post-launch",
+      "card_back_desc": "Traffic heavily up after launch.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/auditrium_1.B2U4GpiW_Z2dMfbQ.webp"
+        },
+        {
+          "src": "/_astro/auditrium_2.BtDIraas_ZmXbwn.webp"
+        },
+        {
+          "src": "/_astro/auditrium_3.B0j4Dmum_pwrGG.webp"
+        }
+      ],
+      "card_chips": [
+        "STRAPI",
+        "MYSQL",
+        "CSS",
+        "TYPESCRIPT",
+        "DESIGN"
+      ],
+      "card_facts": [],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Finance"
+        },
+        {
+          "label": "client",
+          "value": "Auditrium"
+        },
+        {
+          "label": "categories",
+          "value": "Website · Design & UX"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 16
+    },
+    {
+      "title": "Development Services for Recruitment Agency",
+      "quote": "“They are always available and are very committed.”",
+      "body": "So far, The Shark Web has been meeting the client's expectations. They are using Jira for both project management and communication. Their availability and passion for completing the client's goals have been notable.",
+      "avatar": "/img/clients/avatar.png",
+      "name": "Anonymous",
+      "role": "CEO, RECRUITMENT AGENCY",
+      "role_tone": "green",
+      "review_url": "https://clutch.co/go-to-review/e84e8542-6114-46fe-830b-0e44c841d5f1/18436",
+      "card_name": "Globogate",
+      "card_back_brand": "# 007",
+      "card_brand": "THESHARKWEB.COM",
+      "card_domain": "HEALTHCARE",
+      "card_year_label": "2016 (active)",
+      "card_stack": "PHP · LARAVEL · MYSQL · VUE.JS · AWS · TABLEAU",
+      "card_result": "Live recruitment platform",
+      "card_badge": false,
+      "card_tone": "accent",
+      "card_front_bg": "blue-soft",
+      "card_back_title": "Live recruitment platform",
+      "card_back_desc": "An ongoing engagement running for years.",
+      "card_thumbs": [
+        {
+          "src": "/_astro/globogate_1.Czd1guty_SA23F.webp"
+        },
+        {
+          "src": "/_astro/globogate_2.CFetPzrK_iLShF.webp"
+        },
+        {
+          "src": "/_astro/globogate_3.Bis92gak_ZTLuoV.webp"
+        }
+      ],
+      "card_chips": [
+        "PHP",
+        "LARAVEL",
+        "MYSQL",
+        "VUE.JS",
+        "AWS",
+        "TABLEAU"
+      ],
+      "card_facts": [
+        {
+          "figure": "10y+",
+          "tone": "green",
+          "label": "ONGOING ENGAGEMENT",
+          "sub": "running since 2016"
+        },
+        {
+          "figure": "200+",
+          "tone": "orange",
+          "label": "NURSING AND HEALTHCARE COMPANIES",
+          "sub": "trust us for the long term"
+        },
+        {
+          "figure": "5.000+",
+          "tone": "orange",
+          "label": "NURSES",
+          "sub": "completed our programs and are working in Germany"
+        }
+      ],
+      "card_specs": [
+        {
+          "label": "domain",
+          "value": "Healthcare"
+        },
+        {
+          "label": "client",
+          "value": "Globogate"
+        },
+        {
+          "label": "categories",
+          "value": "SaaS · AI & Data"
+        }
+      ],
+      "card_cta_text": "READ THE CASE STUDY →",
+      "card_cta_href": "/work/",
+      "sort": 17
+    }
+  ]
+}

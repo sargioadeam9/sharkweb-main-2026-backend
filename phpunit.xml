@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+>
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory>tests/Feature</directory>
+        </testsuite>
+    </testsuites>
+    <source>
+        <include>
+            <directory>app</directory>
+        </include>
+    </source>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="APP_MAINTENANCE_DRIVER" value="file"/>
+        <env name="BCRYPT_ROUNDS" value="4"/>
+        <env name="BROADCAST_CONNECTION" value="null"/>
+        <env name="CACHE_STORE" value="array"/>
+        <!-- The suite makes far more than 120 API calls in one process against the
+             array cache, so the global ceiling must not apply here. -->
+        <env name="SHARKWEB_API_RATE_LIMIT" value="1000000"/>
+
+        <!--
+            Pinned here rather than inherited from .env.
+
+            The maintenance pages are gated by an email allowlist whose default lives in
+            config/sharkweb.php, and the panel tests sign in as admin@thesharkweb.com. When
+            the owner changed their own admin address, MAINTENANCE_SUPER_ADMINS in .env
+            stopped matching the fixture and four tests turned into 403s — the suite was
+            quietly coupled to whatever the owner had configured that week. A test that
+            depends on the environment it is testing is not a test of the code.
+        -->
+        <env name="MAINTENANCE_SUPER_ADMINS" value="admin@thesharkweb.com"/>
+        <env name="DB_CONNECTION" value="sqlite"/>
+        <env name="DB_DATABASE" value=":memory:"/>
+        <env name="DB_URL" value=""/>
+        <env name="MAIL_MAILER" value="array"/>
+        <!--
+            Empty on purpose. Outbound mail now bypasses MAIL_MAILER and goes through
+            App\Services\ResendMailer, which reads the panel setting first and this env
+            second. With a real key here, every test that submits a lead would fire a live
+            Resend request. Empty means the service refuses early and the lead tests keep
+            proving that a bad key costs an email, not a lead.
+        -->
+        <env name="RESEND_API_KEY" value=""/>
+        <env name="QUEUE_CONNECTION" value="sync"/>
+        <env name="SESSION_DRIVER" value="array"/>
+        <env name="PULSE_ENABLED" value="false"/>
+        <env name="TELESCOPE_ENABLED" value="false"/>
+        <env name="NIGHTWATCH_ENABLED" value="false"/>
+    </php>
+</phpunit>
