@@ -332,6 +332,37 @@ class ManageSettings extends Page implements HasForms
                                             ->placeholder($this->hasToken('meta_capi_access_token') ? 'Saved — leave blank to keep it' : 'Not set')
                                             ->helperText('From Events Manager → Settings → Conversions API → Generate access token. Stored encrypted and never shown again.'),
                                     ]),
+
+                                Forms\Components\Section::make('Microsoft Clarity')
+                                    ->description('Session recording and heatmaps. Runs in the browser and stays quiet until visitor consent allows.')
+                                    ->schema([
+                                        Forms\Components\Textarea::make('clarity_project_id')
+                                            ->label('Clarity script or Project ID')
+                                            ->rows(3)
+                                            ->placeholder("Paste your Microsoft Clarity script snippet or Project ID\nExample: (function(c,l,a,r,i,t,y){...})(window, document, \"clarity\", \"script\", \"k8s...\");\nOr simply: k8s2h1m5")
+                                            ->helperText('Paste either the full <script>...</script> code from Clarity or just your Project ID. The system safely extracts the Project ID.')
+                                            ->dehydrateStateUsing(function (?string $state): ?string {
+                                                if (blank($state)) {
+                                                    return null;
+                                                }
+
+                                                $trimmed = trim($state);
+
+                                                if (preg_match('/clarity[",\s\']+script[",\s\']+["\']([a-zA-Z0-9]+)["\']/i', $trimmed, $m)) {
+                                                    return $m[1];
+                                                }
+
+                                                if (preg_match('/clarity\.ms\/tag\/([a-zA-Z0-9]+)/i', $trimmed, $m)) {
+                                                    return $m[1];
+                                                }
+
+                                                if (preg_match('/clarity\(\s*["\']init["\']\s*,\s*["\']([a-zA-Z0-9]+)["\']/i', $trimmed, $m)) {
+                                                    return $m[1];
+                                                }
+
+                                                return trim(strip_tags($trimmed));
+                                            }),
+                                    ]),
                             ]),
 
                         Forms\Components\Tabs\Tab::make('Footer')

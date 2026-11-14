@@ -142,6 +142,8 @@ class GeneralSettings extends Settings
 
     public ?string $meta_pixel_id = null;
 
+    public ?string $clarity_project_id = null;
+
     /**
      * Whether server-side Meta events are sent at all.
      *
@@ -294,6 +296,7 @@ class GeneralSettings extends Settings
                 'gtm_container_id' => $this->gtm_container_id,
                 'meta_pixel_id' => $this->meta_pixel_id,
                 'tiktok_pixel_id' => $this->tiktok_pixel_id,
+                'clarity_project_id' => $this->clarity_project_id,
             ], fn (?string $id): bool => filled($id)),
             'footer' => [
                 'blurb' => $this->footer_blurb,
