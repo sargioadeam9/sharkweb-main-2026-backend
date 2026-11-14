@@ -1,0 +1,37 @@
+*.log
+.DS_Store
+.env*
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+# The on-disk opcode cache that serve.sh writes. It is 55 MB of compiled PHP whose paths
+# encode the absolute project location, and git refuses some of them as "Filename too long".
+# Deleting it costs one slow start and nothing else.
+/storage/framework/opcache/
+# Backups (§14.14). Both paths are already covered by storage/app/.gitignore (`*`), but
+# they are stated explicitly so a future edit to that file cannot silently start committing
+# a zip that contains a full database dump. `backup-temp` is the zip staging directory.
+# The `local` disk is a development convenience — production must use a remote disk, see
+# BACKEND_DEPLOYMENT_GUIDE.md §7.
+/storage/app/backup-temp/
+/storage/app/private/
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+
+!.env.example
